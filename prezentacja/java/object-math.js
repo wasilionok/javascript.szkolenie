@@ -2,4 +2,5 @@
 
 /*obiekt Math*/
 
-console.log(Math)
+console.log(Math.PI);
+console.log(Math.cos(0));
