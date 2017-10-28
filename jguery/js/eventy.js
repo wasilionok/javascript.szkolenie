@@ -4,6 +4,7 @@ $(function() {
     $("#first").mouseover(function() {
         $("#second").toggle(function() {
           $(this).css("background-color", "yellow");
+            
         });
         
     });
